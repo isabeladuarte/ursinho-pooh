@@ -3,7 +3,10 @@
 Uma aplicação React divertida inspirada no universo do Ursinho Pooh.  
 Aqui você pode conhecer os personagens, mandar mensagens no pote de mel e explorar uma galeria interativa.
 
----
+<img width="938" height="445" alt="print1" src="https://github.com/user-attachments/assets/8af397ae-9b18-4955-acb2-7b7df02095b0" />
+
+<img width="938" height="445" alt="print2" src="https://github.com/user-attachments/assets/0c9216bf-f868-4b79-8ad8-23dfd2efbe7b" />
+
 
 ## ✨ Funcionalidades
 
