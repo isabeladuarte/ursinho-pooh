@@ -11,7 +11,7 @@ export default function Cards() {
                             className="relative group w-full h-60 rounded-xl overflow-hidden shadow-lg cursor-pointer"
                         >
                             <img 
-                                src={`/characters/${name}.png`} 
+                                src={`./characters/${name}.png`} 
                                 alt={name} 
                                 className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
                             />
