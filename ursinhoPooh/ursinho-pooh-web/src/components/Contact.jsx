@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import honey from '/public/logo.png';
+import honey from '/logo.png';
 
 export default function Contact() {
     const [message, setMessage] = useState('');
@@ -39,7 +39,7 @@ export default function Contact() {
                 <div className="flex-1 flex justify-center">
                     <img 
                         src={honey} 
-                        alt="Pote de mel fofo" 
+                        alt="Pote de mel" 
                         className="w-48 h-48 object-contain"
                     />
                 </div>
