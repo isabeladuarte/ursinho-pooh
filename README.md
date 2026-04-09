@@ -1,27 +1,28 @@
 <h1 align="center">
-  🍯 Ursinho Pooh - Web Project
+  🍯 Ursinho Pooh
 </h1>
 
 <p align="center">
-  Uma aplicação web interativa e visualmente atraente que traz o charme do Ursinho Pooh para o navegador, desenvolvida com tecnologias modernas de front-end.
+  Aplicação front-end desenvolvida para consolidar conhecimentos em React, Vite e Tailwind CSS.
 </p>
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-<!-- <p align="center">
-  <img src="./public/logo.png" alt="Screenshot do Projeto Ursinho Pooh" width="80%">
-</p> -->
+<p align="center">
+  <img src="./public/characters/page-1.png" alt="Screenshot do Projeto Ursinho Pooh" width="80%">
+  <img src="./public/characters/page-2.png" alt="Screenshot do Projeto Ursinho Pooh" width="80%">
+</p> 
 
 ## 📖 Sobre
 
-Este projeto foi desenvolvido como um desafio pessoal para consolidar conhecimentos em desenvolvimento front-end componentizado e estilização utilitária. O objetivo foi criar uma interface web limpa e responsiva centrada no tema do Ursinho Pooh.
+O projeto simula uma interface temática com foco em componentização, responsividade e construção de UI moderna, buscando entregar uma experiência visual limpa e organizada.
 
 ## 🚀 Tecnologias
 
@@ -36,9 +37,10 @@ Este projeto foi construído com a seguinte stack tecnológica:
 
 ## ✨ Funcionalidades
 
--   [x] Galeria dos personagens.
--   [x] Estilização moderna e consistente com Tailwind CSS.
--   [x] Mensagem no pote de mel 🍯.
+-   [x] Interface temática inspirada no Ursinho Pooh 🍯
+-   [x] Componentização com React
+-   [x] Layout responsivo para diferentes dispositivos
+-   [x] Estilização moderna com Tailwind CSS
 
 ## 💻 Como Executar
 
@@ -51,26 +53,21 @@ Para rodar este projeto localmente, você precisará ter o [Node.js](https://nod
     git clone [https://github.com/isabeladuarte/ursinho-pooh.git](https://github.com/isabeladuarte/ursinho-pooh.git)
     ```
 
-2.  **Acesse a pasta do projeto:**
-    ```bash
-    cd ursinho-pooh-web
-    ```
-
-3.  **Instale as dependências:**
+2.  **Instale as dependências:**
     ```bash
     npm install
     # ou
     yarn install
     ```
 
-4.  **Inicie o servidor de desenvolvimento:**
+3.  **Inicie o servidor de desenvolvimento:**
     ```bash
     npm run dev
     # ou
     yarn dev
     ```
 
-5.  Acesse `http://localhost:5173` (ou a porta indicada no terminal) no seu navegador.
+4.  Acesse `http://localhost:5173` (ou a porta indicada no terminal) no seu navegador.
 
 <p align="center">
   Desenvolvido com ♥ por <a href="https://github.com/isabeladuarte">Isabela Duarte</a>.
