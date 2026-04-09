@@ -16,8 +16,7 @@
 <br>
 
 <p align="center">
-  <img src="./public/characters/page-1.png" alt="Screenshot do Projeto Ursinho Pooh" width="80%">
-  <img src="./public/characters/page-2.png" alt="Screenshot do Projeto Ursinho Pooh" width="80%">
+  <img src="./public/characters/page.png" alt="Screenshot do Projeto Ursinho Pooh" width="80%">
 </p> 
 
 ## 📖 Sobre
