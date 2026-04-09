@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Uma aplicação web interativa e visualmente atraente que traz o charme do Ursinho Pooh para o navegador, desenvolvida com tecnologias modernas de front-end.
+  Aplicação front-end desenvolvida para consolidar conhecimentos em React, Vite e Tailwind CSS.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 📖 Sobre
 
-Este projeto foi desenvolvido como um desafio pessoal para consolidar conhecimentos em desenvolvimento front-end componentizado e estilização utilitária. O objetivo foi criar uma interface web limpa e responsiva centrada no tema do Ursinho Pooh.
+O projeto simula uma interface temática com foco em componentização, responsividade e construção de UI moderna, buscando entregar uma experiência visual limpa e organizada.
 
 ## 🚀 Tecnologias
 
@@ -37,9 +37,10 @@ Este projeto foi construído com a seguinte stack tecnológica:
 
 ## ✨ Funcionalidades
 
--   [x] Galeria dos personagens.
--   [x] Estilização moderna e consistente com Tailwind CSS.
--   [x] Mensagem no pote de mel 🍯.
+-   [x] Interface temática inspirada no Ursinho Pooh 🍯
+-   [x] Componentização com React
+-   [x] Layout responsivo para diferentes dispositivos
+-   [x] Estilização moderna com Tailwind CSS
 
 ## 💻 Como Executar
 
